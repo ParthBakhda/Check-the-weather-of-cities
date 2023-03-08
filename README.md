@@ -1,2 +1,2 @@
-# Check-the-weather
-Weather check of different cities.
+# Check-the-weather.
+Check the weather for different cities.
