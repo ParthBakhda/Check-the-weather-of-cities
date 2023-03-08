@@ -21,6 +21,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
     ```md
     ![Initial layout of Weather checker](Images/101.png)
+    ![Weather layout with saved results](Images/102.png)
+    ![Weather information and details for climates](Images/103.png)
     ```
 
 ## Credits
